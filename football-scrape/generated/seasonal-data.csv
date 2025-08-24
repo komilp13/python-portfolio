@@ -1,0 +1,768 @@
+season,team,conf,region,wins,losses,win_percent,pts_scored,pts_allowed,pts_diff,season_result,season_result_int
+2001,New England Patriots,AFC,East,11,5,0.688,371,272,99,SuperBowl,4
+2001,Miami Dolphins,AFC,East,11,5,0.688,344,290,54,WildCard,1
+2001,New York Jets,AFC,East,10,6,0.625,308,295,13,WildCard,1
+2001,Indianapolis Colts,AFC,East,6,10,0.375,413,486,-73,Regular,0
+2001,Buffalo Bills,AFC,East,3,13,0.188,265,420,-155,Regular,0
+2001,Pittsburgh Steelers,AFC,Central,13,3,0.813,352,212,140,Division,2
+2001,Baltimore Ravens,AFC,Central,10,6,0.625,303,265,38,Division,2
+2001,Cleveland Browns,AFC,Central,7,9,0.438,285,319,-34,Regular,0
+2001,Tennessee Titans,AFC,Central,7,9,0.438,336,388,-52,Regular,0
+2001,Jacksonville Jaguars,AFC,Central,6,10,0.375,294,286,8,Regular,0
+2001,Cincinnati Bengals,AFC,Central,6,10,0.375,226,309,-83,Regular,0
+2001,Oakland Raiders,AFC,West,10,6,0.625,399,327,72,Division,2
+2001,Seattle Seahawks,AFC,West,9,7,0.563,301,324,-23,Regular,0
+2001,Denver Broncos,AFC,West,8,8,0.5,340,339,1,Regular,0
+2001,Kansas City Chiefs,AFC,West,6,10,0.375,320,344,-24,Regular,0
+2001,San Diego Chargers,AFC,West,5,11,0.313,332,321,11,Regular,0
+2001,Philadelphia Eagles,NFC,East,11,5,0.688,343,208,135,Division,2
+2001,Washington Redskins,NFC,East,8,8,0.5,256,303,-47,Regular,0
+2001,New York Giants,NFC,East,7,9,0.438,294,321,-27,Regular,0
+2001,Arizona Cardinals,NFC,East,7,9,0.438,295,343,-48,Regular,0
+2001,Dallas Cowboys,NFC,East,5,11,0.313,246,338,-92,Regular,0
+2001,Chicago Bears,NFC,Central,13,3,0.813,338,203,135,Division,2
+2001,Green Bay Packers,NFC,Central,12,4,0.75,390,266,124,Division,2
+2001,Tampa Bay Buccaneers,NFC,Central,9,7,0.563,324,280,44,WildCard,1
+2001,Minnesota Vikings,NFC,Central,5,11,0.313,290,390,-100,Regular,0
+2001,Detroit Lions,NFC,Central,2,14,0.125,270,424,-154,Regular,0
+2001,St. Louis Rams,NFC,West,14,2,0.875,503,273,230,SuperBowl,4
+2001,San Francisco 49ers,NFC,West,12,4,0.75,409,282,127,WildCard,1
+2001,New Orleans Saints,NFC,West,7,9,0.438,333,409,-76,Regular,0
+2001,Atlanta Falcons,NFC,West,7,9,0.438,291,377,-86,Regular,0
+2001,Carolina Panthers,NFC,West,1,15,0.063,253,410,-157,Regular,0
+2002,New York Jets,AFC,East,9,7,0.563,359,336,23,Division,2
+2002,New England Patriots,AFC,East,9,7,0.563,381,346,35,Regular,0
+2002,Miami Dolphins,AFC,East,9,7,0.563,378,301,77,Regular,0
+2002,Buffalo Bills,AFC,East,8,8,0.5,379,397,-18,Regular,0
+2002,Pittsburgh Steelers,AFC,North,10,5,0.656,390,345,45,Division,2
+2002,Cleveland Browns,AFC,North,9,7,0.563,344,320,24,WildCard,1
+2002,Baltimore Ravens,AFC,North,7,9,0.438,316,354,-38,Regular,0
+2002,Cincinnati Bengals,AFC,North,2,14,0.125,279,456,-177,Regular,0
+2002,Tennessee Titans,AFC,South,11,5,0.688,367,324,43,Division,2
+2002,Indianapolis Colts,AFC,South,10,6,0.625,349,313,36,WildCard,1
+2002,Jacksonville Jaguars,AFC,South,6,10,0.375,328,315,13,Regular,0
+2002,Houston Texans,AFC,South,4,12,0.25,213,356,-143,Regular,0
+2002,Oakland Raiders,AFC,West,11,5,0.688,450,304,146,SuperBowl,4
+2002,Denver Broncos,AFC,West,9,7,0.563,392,344,48,Regular,0
+2002,San Diego Chargers,AFC,West,8,8,0.5,333,367,-34,Regular,0
+2002,Kansas City Chiefs,AFC,West,8,8,0.5,467,399,68,Regular,0
+2002,Philadelphia Eagles,NFC,East,12,4,0.75,415,241,174,Division,2
+2002,New York Giants,NFC,East,10,6,0.625,320,279,41,WildCard,1
+2002,Washington Redskins,NFC,East,7,9,0.438,307,365,-58,Regular,0
+2002,Dallas Cowboys,NFC,East,5,11,0.313,217,329,-112,Regular,0
+2002,Green Bay Packers,NFC,North,12,4,0.75,398,328,70,WildCard,1
+2002,Minnesota Vikings,NFC,North,6,10,0.375,390,442,-52,Regular,0
+2002,Chicago Bears,NFC,North,4,12,0.25,281,379,-98,Regular,0
+2002,Detroit Lions,NFC,North,3,13,0.188,306,451,-145,Regular,0
+2002,Tampa Bay Buccaneers,NFC,South,12,4,0.75,346,196,150,SuperBowl,4
+2002,Atlanta Falcons,NFC,South,9,6,0.594,402,314,88,Division,2
+2002,New Orleans Saints,NFC,South,9,7,0.563,432,388,44,Regular,0
+2002,Carolina Panthers,NFC,South,7,9,0.438,258,302,-44,Regular,0
+2002,San Francisco 49ers,NFC,West,10,6,0.625,367,351,16,Division,2
+2002,St. Louis Rams,NFC,West,7,9,0.438,316,369,-53,Regular,0
+2002,Seattle Seahawks,NFC,West,7,9,0.438,355,369,-14,Regular,0
+2002,Arizona Cardinals,NFC,West,5,11,0.313,262,417,-155,Regular,0
+2003,New England Patriots,AFC,East,14,2,0.875,348,238,110,SuperBowl,4
+2003,Miami Dolphins,AFC,East,10,6,0.625,311,261,50,Regular,0
+2003,Buffalo Bills,AFC,East,6,10,0.375,243,279,-36,Regular,0
+2003,New York Jets,AFC,East,6,10,0.375,283,299,-16,Regular,0
+2003,Baltimore Ravens,AFC,North,10,6,0.625,391,281,110,WildCard,1
+2003,Cincinnati Bengals,AFC,North,8,8,0.5,346,384,-38,Regular,0
+2003,Pittsburgh Steelers,AFC,North,6,10,0.375,300,327,-27,Regular,0
+2003,Cleveland Browns,AFC,North,5,11,0.313,254,322,-68,Regular,0
+2003,Indianapolis Colts,AFC,South,12,4,0.75,447,336,111,Division,2
+2003,Tennessee Titans,AFC,South,12,4,0.75,435,324,111,Division,2
+2003,Jacksonville Jaguars,AFC,South,5,11,0.313,276,331,-55,Regular,0
+2003,Houston Texans,AFC,South,5,11,0.313,255,380,-125,Regular,0
+2003,Kansas City Chiefs,AFC,West,13,3,0.813,484,332,152,Division,2
+2003,Denver Broncos,AFC,West,10,6,0.625,381,301,80,WildCard,1
+2003,Oakland Raiders,AFC,West,4,12,0.25,270,379,-109,Regular,0
+2003,San Diego Chargers,AFC,West,4,12,0.25,313,441,-128,Regular,0
+2003,Philadelphia Eagles,NFC,East,12,4,0.75,374,287,87,Division,2
+2003,Dallas Cowboys,NFC,East,10,6,0.625,289,260,29,WildCard,1
+2003,Washington Redskins,NFC,East,5,11,0.313,287,372,-85,Regular,0
+2003,New York Giants,NFC,East,4,12,0.25,243,387,-144,Regular,0
+2003,Green Bay Packers,NFC,North,10,6,0.625,442,307,135,Division,2
+2003,Minnesota Vikings,NFC,North,9,7,0.563,416,353,63,Regular,0
+2003,Chicago Bears,NFC,North,7,9,0.438,283,346,-63,Regular,0
+2003,Detroit Lions,NFC,North,5,11,0.313,270,379,-109,Regular,0
+2003,Carolina Panthers,NFC,South,11,5,0.688,325,304,21,SuperBowl,4
+2003,New Orleans Saints,NFC,South,8,8,0.5,340,326,14,Regular,0
+2003,Tampa Bay Buccaneers,NFC,South,7,9,0.438,301,264,37,Regular,0
+2003,Atlanta Falcons,NFC,South,5,11,0.313,299,422,-123,Regular,0
+2003,St. Louis Rams,NFC,West,12,4,0.75,447,328,119,Division,2
+2003,Seattle Seahawks,NFC,West,10,6,0.625,404,327,77,WildCard,1
+2003,San Francisco 49ers,NFC,West,7,9,0.438,384,337,47,Regular,0
+2003,Arizona Cardinals,NFC,West,4,12,0.25,225,452,-227,Regular,0
+2004,New England Patriots,AFC,East,14,2,0.875,437,260,177,SuperBowl,4
+2004,New York Jets,AFC,East,10,6,0.625,333,261,72,Division,2
+2004,Buffalo Bills,AFC,East,9,7,0.563,395,284,111,Regular,0
+2004,Miami Dolphins,AFC,East,4,12,0.25,275,354,-79,Regular,0
+2004,Pittsburgh Steelers,AFC,North,15,1,0.938,372,251,121,Division,2
+2004,Baltimore Ravens,AFC,North,9,7,0.563,317,268,49,Regular,0
+2004,Cincinnati Bengals,AFC,North,8,8,0.5,374,372,2,Regular,0
+2004,Cleveland Browns,AFC,North,4,12,0.25,276,390,-114,Regular,0
+2004,Indianapolis Colts,AFC,South,12,4,0.75,522,351,171,Division,2
+2004,Jacksonville Jaguars,AFC,South,9,7,0.563,261,280,-19,Regular,0
+2004,Houston Texans,AFC,South,7,9,0.438,309,339,-30,Regular,0
+2004,Tennessee Titans,AFC,South,5,11,0.313,344,439,-95,Regular,0
+2004,San Diego Chargers,AFC,West,12,4,0.75,446,313,133,WildCard,1
+2004,Denver Broncos,AFC,West,10,6,0.625,381,304,77,WildCard,1
+2004,Kansas City Chiefs,AFC,West,7,9,0.438,483,435,48,Regular,0
+2004,Oakland Raiders,AFC,West,5,11,0.313,320,442,-122,Regular,0
+2004,Philadelphia Eagles,NFC,East,13,3,0.813,386,260,126,SuperBowl,4
+2004,New York Giants,NFC,East,6,10,0.375,303,347,-44,Regular,0
+2004,Dallas Cowboys,NFC,East,6,10,0.375,293,405,-112,Regular,0
+2004,Washington Redskins,NFC,East,6,10,0.375,240,265,-25,Regular,0
+2004,Green Bay Packers,NFC,North,10,6,0.625,424,380,44,WildCard,1
+2004,Minnesota Vikings,NFC,North,8,8,0.5,405,395,10,Division,2
+2004,Detroit Lions,NFC,North,6,10,0.375,296,350,-54,Regular,0
+2004,Chicago Bears,NFC,North,5,11,0.313,231,331,-100,Regular,0
+2004,Atlanta Falcons,NFC,South,11,5,0.688,340,337,3,Division,2
+2004,New Orleans Saints,NFC,South,8,8,0.5,348,405,-57,Regular,0
+2004,Carolina Panthers,NFC,South,7,9,0.438,355,339,16,Regular,0
+2004,Tampa Bay Buccaneers,NFC,South,5,11,0.313,301,304,-3,Regular,0
+2004,Seattle Seahawks,NFC,West,9,7,0.563,371,373,-2,WildCard,1
+2004,St. Louis Rams,NFC,West,8,8,0.5,319,392,-73,Division,2
+2004,Arizona Cardinals,NFC,West,6,10,0.375,284,322,-38,Regular,0
+2004,San Francisco 49ers,NFC,West,2,14,0.125,259,452,-193,Regular,0
+2005,New England Patriots,AFC,East,10,6,0.625,379,338,41,Division,2
+2005,Miami Dolphins,AFC,East,9,7,0.563,318,317,1,Regular,0
+2005,Buffalo Bills,AFC,East,5,11,0.313,271,367,-96,Regular,0
+2005,New York Jets,AFC,East,4,12,0.25,240,355,-115,Regular,0
+2005,Cincinnati Bengals,AFC,North,11,5,0.688,421,350,71,WildCard,1
+2005,Pittsburgh Steelers,AFC,North,11,5,0.688,389,258,131,SuperBowl,4
+2005,Baltimore Ravens,AFC,North,6,10,0.375,265,299,-34,Regular,0
+2005,Cleveland Browns,AFC,North,6,10,0.375,232,301,-69,Regular,0
+2005,Indianapolis Colts,AFC,South,14,2,0.875,439,247,192,Division,2
+2005,Jacksonville Jaguars,AFC,South,12,4,0.75,361,269,92,WildCard,1
+2005,Tennessee Titans,AFC,South,4,12,0.25,299,421,-122,Regular,0
+2005,Houston Texans,AFC,South,2,14,0.125,260,431,-171,Regular,0
+2005,Denver Broncos,AFC,West,13,3,0.813,395,258,137,Division,2
+2005,Kansas City Chiefs,AFC,West,10,6,0.625,403,325,78,Regular,0
+2005,San Diego Chargers,AFC,West,9,7,0.563,418,312,106,Regular,0
+2005,Oakland Raiders,AFC,West,4,12,0.25,290,383,-93,Regular,0
+2005,New York Giants,NFC,East,11,5,0.688,422,314,108,WildCard,1
+2005,Washington Redskins,NFC,East,10,6,0.625,359,293,66,Division,2
+2005,Dallas Cowboys,NFC,East,9,7,0.563,325,308,17,Regular,0
+2005,Philadelphia Eagles,NFC,East,6,10,0.375,310,388,-78,Regular,0
+2005,Chicago Bears,NFC,North,11,5,0.688,260,202,58,Division,2
+2005,Minnesota Vikings,NFC,North,9,7,0.563,306,344,-38,Regular,0
+2005,Detroit Lions,NFC,North,5,11,0.313,254,345,-91,Regular,0
+2005,Green Bay Packers,NFC,North,4,12,0.25,298,344,-46,Regular,0
+2005,Tampa Bay Buccaneers,NFC,South,11,5,0.688,300,274,26,WildCard,1
+2005,Carolina Panthers,NFC,South,11,5,0.688,391,259,132,Division,2
+2005,Atlanta Falcons,NFC,South,8,8,0.5,351,341,10,Regular,0
+2005,New Orleans Saints,NFC,South,3,13,0.188,235,398,-163,Regular,0
+2005,Seattle Seahawks,NFC,West,13,3,0.813,452,271,181,SuperBowl,4
+2005,St. Louis Rams,NFC,West,6,10,0.375,363,429,-66,Regular,0
+2005,Arizona Cardinals,NFC,West,5,11,0.313,311,387,-76,Regular,0
+2005,San Francisco 49ers,NFC,West,4,12,0.25,239,428,-189,Regular,0
+2006,New England Patriots,AFC,East,12,4,0.75,385,237,148,Division,2
+2006,New York Jets,AFC,East,10,6,0.625,316,295,21,WildCard,1
+2006,Buffalo Bills,AFC,East,7,9,0.438,300,311,-11,Regular,0
+2006,Miami Dolphins,AFC,East,6,10,0.375,260,283,-23,Regular,0
+2006,Baltimore Ravens,AFC,North,13,3,0.813,353,201,152,Division,2
+2006,Cincinnati Bengals,AFC,North,8,8,0.5,373,331,42,Regular,0
+2006,Pittsburgh Steelers,AFC,North,8,8,0.5,353,315,38,Regular,0
+2006,Cleveland Browns,AFC,North,4,12,0.25,238,356,-118,Regular,0
+2006,Indianapolis Colts,AFC,South,12,4,0.75,427,360,67,SuperBowl,4
+2006,Tennessee Titans,AFC,South,8,8,0.5,324,400,-76,Regular,0
+2006,Jacksonville Jaguars,AFC,South,8,8,0.5,371,274,97,Regular,0
+2006,Houston Texans,AFC,South,6,10,0.375,267,366,-99,Regular,0
+2006,San Diego Chargers,AFC,West,14,2,0.875,492,303,189,Division,2
+2006,Kansas City Chiefs,AFC,West,9,7,0.563,331,315,16,WildCard,1
+2006,Denver Broncos,AFC,West,9,7,0.563,319,305,14,Regular,0
+2006,Oakland Raiders,AFC,West,2,14,0.125,168,332,-164,Regular,0
+2006,Philadelphia Eagles,NFC,East,10,6,0.625,398,328,70,Division,2
+2006,Dallas Cowboys,NFC,East,9,7,0.563,425,350,75,WildCard,1
+2006,New York Giants,NFC,East,8,8,0.5,355,362,-7,WildCard,1
+2006,Washington Redskins,NFC,East,5,11,0.313,307,376,-69,Regular,0
+2006,Chicago Bears,NFC,North,13,3,0.813,427,255,172,SuperBowl,4
+2006,Green Bay Packers,NFC,North,8,8,0.5,301,366,-65,Regular,0
+2006,Minnesota Vikings,NFC,North,6,10,0.375,282,327,-45,Regular,0
+2006,Detroit Lions,NFC,North,3,13,0.188,305,398,-93,Regular,0
+2006,New Orleans Saints,NFC,South,10,6,0.625,413,322,91,Division,2
+2006,Carolina Panthers,NFC,South,8,8,0.5,270,305,-35,Regular,0
+2006,Atlanta Falcons,NFC,South,7,9,0.438,292,328,-36,Regular,0
+2006,Tampa Bay Buccaneers,NFC,South,4,12,0.25,211,353,-142,Regular,0
+2006,Seattle Seahawks,NFC,West,9,7,0.563,335,341,-6,Division,2
+2006,St. Louis Rams,NFC,West,8,8,0.5,367,381,-14,Regular,0
+2006,San Francisco 49ers,NFC,West,7,9,0.438,298,412,-114,Regular,0
+2006,Arizona Cardinals,NFC,West,5,11,0.313,314,389,-75,Regular,0
+2007,New England Patriots,AFC,East,16,0,1.0,589,274,315,SuperBowl,4
+2007,Buffalo Bills,AFC,East,7,9,0.438,252,354,-102,Regular,0
+2007,New York Jets,AFC,East,4,12,0.25,268,355,-87,Regular,0
+2007,Miami Dolphins,AFC,East,1,15,0.063,267,437,-170,Regular,0
+2007,Pittsburgh Steelers,AFC,North,10,6,0.625,393,269,124,WildCard,1
+2007,Cleveland Browns,AFC,North,10,6,0.625,402,382,20,Regular,0
+2007,Cincinnati Bengals,AFC,North,7,9,0.438,380,385,-5,Regular,0
+2007,Baltimore Ravens,AFC,North,5,11,0.313,275,384,-109,Regular,0
+2007,Indianapolis Colts,AFC,South,13,3,0.813,450,262,188,Division,2
+2007,Jacksonville Jaguars,AFC,South,11,5,0.688,411,304,107,Division,2
+2007,Tennessee Titans,AFC,South,10,6,0.625,301,297,4,WildCard,1
+2007,Houston Texans,AFC,South,8,8,0.5,379,384,-5,Regular,0
+2007,San Diego Chargers,AFC,West,11,5,0.688,412,284,128,Division,2
+2007,Denver Broncos,AFC,West,7,9,0.438,320,409,-89,Regular,0
+2007,Kansas City Chiefs,AFC,West,4,12,0.25,226,335,-109,Regular,0
+2007,Oakland Raiders,AFC,West,4,12,0.25,283,398,-115,Regular,0
+2007,Dallas Cowboys,NFC,East,13,3,0.813,455,325,130,Division,2
+2007,New York Giants,NFC,East,10,6,0.625,373,351,22,SuperBowl,4
+2007,Washington Redskins,NFC,East,9,7,0.563,334,310,24,WildCard,1
+2007,Philadelphia Eagles,NFC,East,8,8,0.5,336,300,36,Regular,0
+2007,Green Bay Packers,NFC,North,13,3,0.813,435,291,144,Division,2
+2007,Minnesota Vikings,NFC,North,8,8,0.5,365,311,54,Regular,0
+2007,Detroit Lions,NFC,North,7,9,0.438,346,444,-98,Regular,0
+2007,Chicago Bears,NFC,North,7,9,0.438,334,348,-14,Regular,0
+2007,Tampa Bay Buccaneers,NFC,South,9,7,0.563,334,270,64,WildCard,1
+2007,Carolina Panthers,NFC,South,7,9,0.438,267,347,-80,Regular,0
+2007,New Orleans Saints,NFC,South,7,9,0.438,379,388,-9,Regular,0
+2007,Atlanta Falcons,NFC,South,4,12,0.25,259,414,-155,Regular,0
+2007,Seattle Seahawks,NFC,West,10,6,0.625,393,291,102,Division,2
+2007,Arizona Cardinals,NFC,West,8,8,0.5,404,399,5,Regular,0
+2007,San Francisco 49ers,NFC,West,5,11,0.313,219,364,-145,Regular,0
+2007,St. Louis Rams,NFC,West,3,13,0.188,263,438,-175,Regular,0
+2008,Miami Dolphins,AFC,East,11,5,0.688,345,317,28,WildCard,1
+2008,New England Patriots,AFC,East,11,5,0.688,410,309,101,Regular,0
+2008,New York Jets,AFC,East,9,7,0.563,405,356,49,Regular,0
+2008,Buffalo Bills,AFC,East,7,9,0.438,336,342,-6,Regular,0
+2008,Pittsburgh Steelers,AFC,North,12,4,0.75,347,223,124,SuperBowl,4
+2008,Baltimore Ravens,AFC,North,11,5,0.688,385,244,141,Division,2
+2008,Cincinnati Bengals,AFC,North,4,11,0.281,204,364,-160,Regular,0
+2008,Cleveland Browns,AFC,North,4,12,0.25,232,350,-118,Regular,0
+2008,Tennessee Titans,AFC,South,13,3,0.813,375,234,141,Division,2
+2008,Indianapolis Colts,AFC,South,12,4,0.75,377,298,79,WildCard,1
+2008,Houston Texans,AFC,South,8,8,0.5,366,394,-28,Regular,0
+2008,Jacksonville Jaguars,AFC,South,5,11,0.313,302,367,-65,Regular,0
+2008,San Diego Chargers,AFC,West,8,8,0.5,439,347,92,Division,2
+2008,Denver Broncos,AFC,West,8,8,0.5,370,448,-78,Regular,0
+2008,Oakland Raiders,AFC,West,5,11,0.313,263,388,-125,Regular,0
+2008,Kansas City Chiefs,AFC,West,2,14,0.125,291,440,-149,Regular,0
+2008,New York Giants,NFC,East,12,4,0.75,427,294,133,Division,2
+2008,Philadelphia Eagles,NFC,East,9,6,0.594,416,289,127,Division,2
+2008,Dallas Cowboys,NFC,East,9,7,0.563,362,365,-3,Regular,0
+2008,Washington Redskins,NFC,East,8,8,0.5,265,296,-31,Regular,0
+2008,Minnesota Vikings,NFC,North,10,6,0.625,379,333,46,WildCard,1
+2008,Chicago Bears,NFC,North,9,7,0.563,375,350,25,Regular,0
+2008,Green Bay Packers,NFC,North,6,10,0.375,419,380,39,Regular,0
+2008,Detroit Lions,NFC,North,0,16,0.0,268,517,-249,Regular,0
+2008,Carolina Panthers,NFC,South,12,4,0.75,414,329,85,Division,2
+2008,Atlanta Falcons,NFC,South,11,5,0.688,391,325,66,WildCard,1
+2008,Tampa Bay Buccaneers,NFC,South,9,7,0.563,361,323,38,Regular,0
+2008,New Orleans Saints,NFC,South,8,8,0.5,463,393,70,Regular,0
+2008,Arizona Cardinals,NFC,West,9,7,0.563,427,426,1,SuperBowl,4
+2008,San Francisco 49ers,NFC,West,7,9,0.438,339,381,-42,Regular,0
+2008,Seattle Seahawks,NFC,West,4,12,0.25,294,392,-98,Regular,0
+2008,St. Louis Rams,NFC,West,2,14,0.125,232,465,-233,Regular,0
+2009,New England Patriots,AFC,East,10,6,0.625,427,285,142,WildCard,1
+2009,New York Jets,AFC,East,9,7,0.563,348,236,112,Division,2
+2009,Miami Dolphins,AFC,East,7,9,0.438,360,390,-30,Regular,0
+2009,Buffalo Bills,AFC,East,6,10,0.375,258,326,-68,Regular,0
+2009,Cincinnati Bengals,AFC,North,10,6,0.625,305,291,14,WildCard,1
+2009,Baltimore Ravens,AFC,North,9,7,0.563,391,261,130,Division,2
+2009,Pittsburgh Steelers,AFC,North,9,7,0.563,368,324,44,Regular,0
+2009,Cleveland Browns,AFC,North,5,11,0.313,245,375,-130,Regular,0
+2009,Indianapolis Colts,AFC,South,14,2,0.875,416,307,109,SuperBowl,4
+2009,Houston Texans,AFC,South,9,7,0.563,388,333,55,Regular,0
+2009,Tennessee Titans,AFC,South,8,8,0.5,354,402,-48,Regular,0
+2009,Jacksonville Jaguars,AFC,South,7,9,0.438,290,380,-90,Regular,0
+2009,San Diego Chargers,AFC,West,13,3,0.813,454,320,134,Division,2
+2009,Denver Broncos,AFC,West,8,8,0.5,326,324,2,Regular,0
+2009,Oakland Raiders,AFC,West,5,11,0.313,197,379,-182,Regular,0
+2009,Kansas City Chiefs,AFC,West,4,12,0.25,294,424,-130,Regular,0
+2009,Dallas Cowboys,NFC,East,11,5,0.688,361,250,111,Division,2
+2009,Philadelphia Eagles,NFC,East,11,5,0.688,429,337,92,WildCard,1
+2009,New York Giants,NFC,East,8,8,0.5,402,427,-25,Regular,0
+2009,Washington Redskins,NFC,East,4,12,0.25,266,336,-70,Regular,0
+2009,Minnesota Vikings,NFC,North,12,4,0.75,470,312,158,Division,2
+2009,Green Bay Packers,NFC,North,11,5,0.688,461,297,164,WildCard,1
+2009,Chicago Bears,NFC,North,7,9,0.438,327,375,-48,Regular,0
+2009,Detroit Lions,NFC,North,2,14,0.125,262,494,-232,Regular,0
+2009,New Orleans Saints,NFC,South,13,3,0.813,510,341,169,SuperBowl,4
+2009,Atlanta Falcons,NFC,South,9,7,0.563,363,325,38,Regular,0
+2009,Carolina Panthers,NFC,South,8,8,0.5,315,308,7,Regular,0
+2009,Tampa Bay Buccaneers,NFC,South,3,13,0.188,244,400,-156,Regular,0
+2009,Arizona Cardinals,NFC,West,10,6,0.625,375,325,50,Division,2
+2009,San Francisco 49ers,NFC,West,8,8,0.5,330,281,49,Regular,0
+2009,Seattle Seahawks,NFC,West,5,11,0.313,280,390,-110,Regular,0
+2009,St. Louis Rams,NFC,West,1,15,0.063,175,436,-261,Regular,0
+2010,New England Patriots,AFC,East,14,2,0.875,518,313,205,Division,2
+2010,New York Jets,AFC,East,11,5,0.688,367,304,63,Division,2
+2010,Miami Dolphins,AFC,East,7,9,0.438,273,333,-60,Regular,0
+2010,Buffalo Bills,AFC,East,4,12,0.25,283,425,-142,Regular,0
+2010,Pittsburgh Steelers,AFC,North,12,4,0.75,375,232,143,SuperBowl,4
+2010,Baltimore Ravens,AFC,North,12,4,0.75,357,270,87,Division,2
+2010,Cleveland Browns,AFC,North,5,11,0.313,271,332,-61,Regular,0
+2010,Cincinnati Bengals,AFC,North,4,12,0.25,322,395,-73,Regular,0
+2010,Indianapolis Colts,AFC,South,10,6,0.625,435,388,47,WildCard,1
+2010,Jacksonville Jaguars,AFC,South,8,8,0.5,353,419,-66,Regular,0
+2010,Houston Texans,AFC,South,6,10,0.375,390,427,-37,Regular,0
+2010,Tennessee Titans,AFC,South,6,10,0.375,356,339,17,Regular,0
+2010,Kansas City Chiefs,AFC,West,10,6,0.625,366,326,40,WildCard,1
+2010,San Diego Chargers,AFC,West,9,7,0.563,441,322,119,Regular,0
+2010,Oakland Raiders,AFC,West,8,8,0.5,410,371,39,Regular,0
+2010,Denver Broncos,AFC,West,4,12,0.25,344,471,-127,Regular,0
+2010,Philadelphia Eagles,NFC,East,10,6,0.625,439,377,62,WildCard,1
+2010,New York Giants,NFC,East,10,6,0.625,394,347,47,Regular,0
+2010,Dallas Cowboys,NFC,East,6,10,0.375,394,436,-42,Regular,0
+2010,Washington Redskins,NFC,East,6,10,0.375,302,377,-75,Regular,0
+2010,Chicago Bears,NFC,North,11,5,0.688,334,286,48,Division,2
+2010,Green Bay Packers,NFC,North,10,6,0.625,388,240,148,SuperBowl,4
+2010,Detroit Lions,NFC,North,6,10,0.375,362,369,-7,Regular,0
+2010,Minnesota Vikings,NFC,North,6,10,0.375,281,348,-67,Regular,0
+2010,Atlanta Falcons,NFC,South,13,3,0.813,414,288,126,Division,2
+2010,New Orleans Saints,NFC,South,11,5,0.688,384,307,77,WildCard,1
+2010,Tampa Bay Buccaneers,NFC,South,10,6,0.625,341,318,23,Regular,0
+2010,Carolina Panthers,NFC,South,2,14,0.125,196,408,-212,Regular,0
+2010,Seattle Seahawks,NFC,West,7,9,0.438,310,407,-97,Division,2
+2010,St. Louis Rams,NFC,West,7,9,0.438,289,328,-39,Regular,0
+2010,San Francisco 49ers,NFC,West,6,10,0.375,305,346,-41,Regular,0
+2010,Arizona Cardinals,NFC,West,5,11,0.313,289,434,-145,Regular,0
+2011,New England Patriots,AFC,East,13,3,0.813,513,342,171,SuperBowl,4
+2011,New York Jets,AFC,East,8,8,0.5,377,363,14,Regular,0
+2011,Miami Dolphins,AFC,East,6,10,0.375,329,313,16,Regular,0
+2011,Buffalo Bills,AFC,East,6,10,0.375,372,434,-62,Regular,0
+2011,Baltimore Ravens,AFC,North,12,4,0.75,378,266,112,Division,2
+2011,Pittsburgh Steelers,AFC,North,12,4,0.75,325,227,98,WildCard,1
+2011,Cincinnati Bengals,AFC,North,9,7,0.563,344,323,21,WildCard,1
+2011,Cleveland Browns,AFC,North,4,12,0.25,218,307,-89,Regular,0
+2011,Houston Texans,AFC,South,10,6,0.625,381,278,103,Division,2
+2011,Tennessee Titans,AFC,South,9,7,0.563,325,317,8,Regular,0
+2011,Jacksonville Jaguars,AFC,South,5,11,0.313,243,329,-86,Regular,0
+2011,Indianapolis Colts,AFC,South,2,14,0.125,243,430,-187,Regular,0
+2011,Denver Broncos,AFC,West,8,8,0.5,309,390,-81,Division,2
+2011,San Diego Chargers,AFC,West,8,8,0.5,406,377,29,Regular,0
+2011,Oakland Raiders,AFC,West,8,8,0.5,359,433,-74,Regular,0
+2011,Kansas City Chiefs,AFC,West,7,9,0.438,212,338,-126,Regular,0
+2011,New York Giants,NFC,East,9,7,0.563,394,400,-6,SuperBowl,4
+2011,Philadelphia Eagles,NFC,East,8,8,0.5,396,328,68,Regular,0
+2011,Dallas Cowboys,NFC,East,8,8,0.5,369,347,22,Regular,0
+2011,Washington Redskins,NFC,East,5,11,0.313,288,367,-79,Regular,0
+2011,Green Bay Packers,NFC,North,15,1,0.938,560,359,201,Division,2
+2011,Detroit Lions,NFC,North,10,6,0.625,474,387,87,WildCard,1
+2011,Chicago Bears,NFC,North,8,8,0.5,353,341,12,Regular,0
+2011,Minnesota Vikings,NFC,North,3,13,0.188,340,449,-109,Regular,0
+2011,New Orleans Saints,NFC,South,13,3,0.813,547,339,208,Division,2
+2011,Atlanta Falcons,NFC,South,10,6,0.625,402,350,52,WildCard,1
+2011,Carolina Panthers,NFC,South,6,10,0.375,406,429,-23,Regular,0
+2011,Tampa Bay Buccaneers,NFC,South,4,12,0.25,287,494,-207,Regular,0
+2011,San Francisco 49ers,NFC,West,13,3,0.813,380,229,151,Division,2
+2011,Arizona Cardinals,NFC,West,8,8,0.5,312,348,-36,Regular,0
+2011,Seattle Seahawks,NFC,West,7,9,0.438,321,315,6,Regular,0
+2011,St. Louis Rams,NFC,West,2,14,0.125,193,407,-214,Regular,0
+2012,New England Patriots,AFC,East,12,4,0.75,557,331,226,Division,2
+2012,Miami Dolphins,AFC,East,7,9,0.438,288,317,-29,Regular,0
+2012,New York Jets,AFC,East,6,10,0.375,281,375,-94,Regular,0
+2012,Buffalo Bills,AFC,East,6,10,0.375,344,435,-91,Regular,0
+2012,Baltimore Ravens,AFC,North,10,6,0.625,398,344,54,SuperBowl,4
+2012,Cincinnati Bengals,AFC,North,10,6,0.625,391,320,71,WildCard,1
+2012,Pittsburgh Steelers,AFC,North,8,8,0.5,336,314,22,Regular,0
+2012,Cleveland Browns,AFC,North,5,11,0.313,302,368,-66,Regular,0
+2012,Houston Texans,AFC,South,12,4,0.75,416,331,85,Division,2
+2012,Indianapolis Colts,AFC,South,11,5,0.688,357,387,-30,WildCard,1
+2012,Tennessee Titans,AFC,South,6,10,0.375,330,471,-141,Regular,0
+2012,Jacksonville Jaguars,AFC,South,2,14,0.125,255,444,-189,Regular,0
+2012,Denver Broncos,AFC,West,13,3,0.813,481,289,192,Division,2
+2012,San Diego Chargers,AFC,West,7,9,0.438,350,350,0,Regular,0
+2012,Oakland Raiders,AFC,West,4,12,0.25,290,443,-153,Regular,0
+2012,Kansas City Chiefs,AFC,West,2,14,0.125,211,425,-214,Regular,0
+2012,Washington Redskins,NFC,East,10,6,0.625,436,388,48,WildCard,1
+2012,New York Giants,NFC,East,9,7,0.563,429,344,85,Regular,0
+2012,Dallas Cowboys,NFC,East,8,8,0.5,376,400,-24,Regular,0
+2012,Philadelphia Eagles,NFC,East,4,12,0.25,280,444,-164,Regular,0
+2012,Green Bay Packers,NFC,North,11,5,0.688,433,336,97,Division,2
+2012,Minnesota Vikings,NFC,North,10,6,0.625,379,348,31,WildCard,1
+2012,Chicago Bears,NFC,North,10,6,0.625,375,277,98,Regular,0
+2012,Detroit Lions,NFC,North,4,12,0.25,372,437,-65,Regular,0
+2012,Atlanta Falcons,NFC,South,13,3,0.813,419,299,120,Division,2
+2012,Carolina Panthers,NFC,South,7,9,0.438,357,363,-6,Regular,0
+2012,New Orleans Saints,NFC,South,7,9,0.438,461,454,7,Regular,0
+2012,Tampa Bay Buccaneers,NFC,South,7,9,0.438,389,394,-5,Regular,0
+2012,San Francisco 49ers,NFC,West,11,4,0.719,397,273,124,SuperBowl,4
+2012,Seattle Seahawks,NFC,West,11,5,0.688,412,245,167,Division,2
+2012,St. Louis Rams,NFC,West,7,8,0.469,299,348,-49,Regular,0
+2012,Arizona Cardinals,NFC,West,5,11,0.313,250,357,-107,Regular,0
+2013,New England Patriots,AFC,East,12,4,0.75,444,338,106,Division,2
+2013,New York Jets,AFC,East,8,8,0.5,290,387,-97,Regular,0
+2013,Miami Dolphins,AFC,East,8,8,0.5,317,335,-18,Regular,0
+2013,Buffalo Bills,AFC,East,6,10,0.375,339,388,-49,Regular,0
+2013,Cincinnati Bengals,AFC,North,11,5,0.688,430,305,125,WildCard,1
+2013,Pittsburgh Steelers,AFC,North,8,8,0.5,379,370,9,Regular,0
+2013,Baltimore Ravens,AFC,North,8,8,0.5,320,352,-32,Regular,0
+2013,Cleveland Browns,AFC,North,4,12,0.25,308,406,-98,Regular,0
+2013,Indianapolis Colts,AFC,South,11,5,0.688,391,336,55,Division,2
+2013,Tennessee Titans,AFC,South,7,9,0.438,362,381,-19,Regular,0
+2013,Jacksonville Jaguars,AFC,South,4,12,0.25,247,449,-202,Regular,0
+2013,Houston Texans,AFC,South,2,14,0.125,276,428,-152,Regular,0
+2013,Denver Broncos,AFC,West,13,3,0.813,606,399,207,SuperBowl,4
+2013,Kansas City Chiefs,AFC,West,11,5,0.688,430,305,125,WildCard,1
+2013,San Diego Chargers,AFC,West,9,7,0.563,396,348,48,Division,2
+2013,Oakland Raiders,AFC,West,4,12,0.25,322,453,-131,Regular,0
+2013,Philadelphia Eagles,NFC,East,10,6,0.625,442,382,60,WildCard,1
+2013,Dallas Cowboys,NFC,East,8,8,0.5,439,432,7,Regular,0
+2013,New York Giants,NFC,East,7,9,0.438,294,383,-89,Regular,0
+2013,Washington Redskins,NFC,East,3,13,0.188,334,478,-144,Regular,0
+2013,Green Bay Packers,NFC,North,8,7,0.531,417,428,-11,WildCard,1
+2013,Chicago Bears,NFC,North,8,8,0.5,445,478,-33,Regular,0
+2013,Detroit Lions,NFC,North,7,9,0.438,395,376,19,Regular,0
+2013,Minnesota Vikings,NFC,North,5,10,0.344,391,480,-89,Regular,0
+2013,Carolina Panthers,NFC,South,12,4,0.75,366,241,125,Division,2
+2013,New Orleans Saints,NFC,South,11,5,0.688,414,304,110,Division,2
+2013,Atlanta Falcons,NFC,South,4,12,0.25,353,443,-90,Regular,0
+2013,Tampa Bay Buccaneers,NFC,South,4,12,0.25,288,389,-101,Regular,0
+2013,Seattle Seahawks,NFC,West,13,3,0.813,417,231,186,SuperBowl,4
+2013,San Francisco 49ers,NFC,West,12,4,0.75,406,272,134,Division,2
+2013,Arizona Cardinals,NFC,West,10,6,0.625,379,324,55,Regular,0
+2013,St. Louis Rams,NFC,West,7,9,0.438,348,364,-16,Regular,0
+2014,New England Patriots,AFC,East,12,4,0.75,468,313,155,SuperBowl,4
+2014,Buffalo Bills,AFC,East,9,7,0.563,343,289,54,Regular,0
+2014,Miami Dolphins,AFC,East,8,8,0.5,388,373,15,Regular,0
+2014,New York Jets,AFC,East,4,12,0.25,283,401,-118,Regular,0
+2014,Pittsburgh Steelers,AFC,North,11,5,0.688,436,368,68,WildCard,1
+2014,Cincinnati Bengals,AFC,North,10,5,0.656,365,344,21,WildCard,1
+2014,Baltimore Ravens,AFC,North,10,6,0.625,409,302,107,Division,2
+2014,Cleveland Browns,AFC,North,7,9,0.438,299,337,-38,Regular,0
+2014,Indianapolis Colts,AFC,South,11,5,0.688,458,369,89,Division,2
+2014,Houston Texans,AFC,South,9,7,0.563,372,307,65,Regular,0
+2014,Jacksonville Jaguars,AFC,South,3,13,0.188,249,412,-163,Regular,0
+2014,Tennessee Titans,AFC,South,2,14,0.125,254,438,-184,Regular,0
+2014,Denver Broncos,AFC,West,12,4,0.75,482,354,128,Division,2
+2014,Kansas City Chiefs,AFC,West,9,7,0.563,353,281,72,Regular,0
+2014,San Diego Chargers,AFC,West,9,7,0.563,348,348,0,Regular,0
+2014,Oakland Raiders,AFC,West,3,13,0.188,253,452,-199,Regular,0
+2014,Dallas Cowboys,NFC,East,12,4,0.75,467,352,115,Division,2
+2014,Philadelphia Eagles,NFC,East,10,6,0.625,474,400,74,Regular,0
+2014,New York Giants,NFC,East,6,10,0.375,380,400,-20,Regular,0
+2014,Washington Redskins,NFC,East,4,12,0.25,301,438,-137,Regular,0
+2014,Green Bay Packers,NFC,North,12,4,0.75,486,348,138,Division,2
+2014,Detroit Lions,NFC,North,11,5,0.688,321,282,39,WildCard,1
+2014,Minnesota Vikings,NFC,North,7,9,0.438,325,343,-18,Regular,0
+2014,Chicago Bears,NFC,North,5,11,0.313,319,442,-123,Regular,0
+2014,Carolina Panthers,NFC,South,7,8,0.469,339,374,-35,Division,2
+2014,New Orleans Saints,NFC,South,7,9,0.438,401,424,-23,Regular,0
+2014,Atlanta Falcons,NFC,South,6,10,0.375,381,417,-36,Regular,0
+2014,Tampa Bay Buccaneers,NFC,South,2,14,0.125,277,410,-133,Regular,0
+2014,Seattle Seahawks,NFC,West,12,4,0.75,394,254,140,SuperBowl,4
+2014,Arizona Cardinals,NFC,West,11,5,0.688,310,299,11,WildCard,1
+2014,San Francisco 49ers,NFC,West,8,8,0.5,306,340,-34,Regular,0
+2014,St. Louis Rams,NFC,West,6,10,0.375,324,354,-30,Regular,0
+2015,New England Patriots,AFC,East,12,4,0.75,465,315,150,Division,2
+2015,New York Jets,AFC,East,10,6,0.625,387,314,73,Regular,0
+2015,Buffalo Bills,AFC,East,8,8,0.5,379,359,20,Regular,0
+2015,Miami Dolphins,AFC,East,6,10,0.375,310,389,-79,Regular,0
+2015,Cincinnati Bengals,AFC,North,12,4,0.75,419,279,140,WildCard,1
+2015,Pittsburgh Steelers,AFC,North,10,6,0.625,423,319,104,Division,2
+2015,Baltimore Ravens,AFC,North,5,11,0.313,328,401,-73,Regular,0
+2015,Cleveland Browns,AFC,North,3,13,0.188,278,432,-154,Regular,0
+2015,Houston Texans,AFC,South,9,7,0.563,339,313,26,WildCard,1
+2015,Indianapolis Colts,AFC,South,8,8,0.5,333,408,-75,Regular,0
+2015,Jacksonville Jaguars,AFC,South,5,11,0.313,376,448,-72,Regular,0
+2015,Tennessee Titans,AFC,South,3,13,0.188,299,423,-124,Regular,0
+2015,Denver Broncos,AFC,West,12,4,0.75,355,296,59,SuperBowl,4
+2015,Kansas City Chiefs,AFC,West,11,5,0.688,405,287,118,Division,2
+2015,Oakland Raiders,AFC,West,7,9,0.438,359,399,-40,Regular,0
+2015,San Diego Chargers,AFC,West,4,12,0.25,320,398,-78,Regular,0
+2015,Washington Redskins,NFC,East,9,7,0.563,388,379,9,WildCard,1
+2015,Philadelphia Eagles,NFC,East,7,9,0.438,377,430,-53,Regular,0
+2015,New York Giants,NFC,East,6,10,0.375,420,442,-22,Regular,0
+2015,Dallas Cowboys,NFC,East,4,12,0.25,275,374,-99,Regular,0
+2015,Minnesota Vikings,NFC,North,11,5,0.688,365,302,63,WildCard,1
+2015,Green Bay Packers,NFC,North,10,6,0.625,368,323,45,Division,2
+2015,Detroit Lions,NFC,North,7,9,0.438,358,400,-42,Regular,0
+2015,Chicago Bears,NFC,North,6,10,0.375,335,397,-62,Regular,0
+2015,Carolina Panthers,NFC,South,15,1,0.938,500,308,192,SuperBowl,4
+2015,Atlanta Falcons,NFC,South,8,8,0.5,339,345,-6,Regular,0
+2015,New Orleans Saints,NFC,South,7,9,0.438,408,476,-68,Regular,0
+2015,Tampa Bay Buccaneers,NFC,South,6,10,0.375,342,417,-75,Regular,0
+2015,Arizona Cardinals,NFC,West,13,3,0.813,489,313,176,Division,2
+2015,Seattle Seahawks,NFC,West,10,6,0.625,423,277,146,Division,2
+2015,St. Louis Rams,NFC,West,7,9,0.438,280,330,-50,Regular,0
+2015,San Francisco 49ers,NFC,West,5,11,0.313,238,387,-149,Regular,0
+2016,New England Patriots,AFC,East,14,2,0.875,441,250,191,SuperBowl,4
+2016,Miami Dolphins,AFC,East,10,6,0.625,363,380,-17,WildCard,1
+2016,Buffalo Bills,AFC,East,7,9,0.438,399,378,21,Regular,0
+2016,New York Jets,AFC,East,5,11,0.313,275,409,-134,Regular,0
+2016,Pittsburgh Steelers,AFC,North,11,5,0.688,399,327,72,Division,2
+2016,Baltimore Ravens,AFC,North,8,8,0.5,343,321,22,Regular,0
+2016,Cincinnati Bengals,AFC,North,6,9,0.406,325,315,10,Regular,0
+2016,Cleveland Browns,AFC,North,1,15,0.063,264,452,-188,Regular,0
+2016,Houston Texans,AFC,South,9,7,0.563,279,328,-49,Division,2
+2016,Tennessee Titans,AFC,South,9,7,0.563,381,378,3,Regular,0
+2016,Indianapolis Colts,AFC,South,8,8,0.5,411,392,19,Regular,0
+2016,Jacksonville Jaguars,AFC,South,3,13,0.188,318,400,-82,Regular,0
+2016,Kansas City Chiefs,AFC,West,12,4,0.75,389,311,78,Division,2
+2016,Oakland Raiders,AFC,West,12,4,0.75,416,385,31,WildCard,1
+2016,Denver Broncos,AFC,West,9,7,0.563,333,297,36,Regular,0
+2016,San Diego Chargers,AFC,West,5,11,0.313,410,423,-13,Regular,0
+2016,Dallas Cowboys,NFC,East,13,3,0.813,421,306,115,Division,2
+2016,New York Giants,NFC,East,11,5,0.688,310,284,26,WildCard,1
+2016,Washington Redskins,NFC,East,8,7,0.531,396,383,13,Regular,0
+2016,Philadelphia Eagles,NFC,East,7,9,0.438,367,331,36,Regular,0
+2016,Green Bay Packers,NFC,North,10,6,0.625,432,388,44,Division,2
+2016,Detroit Lions,NFC,North,9,7,0.563,346,358,-12,WildCard,1
+2016,Minnesota Vikings,NFC,North,8,8,0.5,327,307,20,Regular,0
+2016,Chicago Bears,NFC,North,3,13,0.188,279,399,-120,Regular,0
+2016,Atlanta Falcons,NFC,South,11,5,0.688,540,406,134,SuperBowl,4
+2016,Tampa Bay Buccaneers,NFC,South,9,7,0.563,354,369,-15,Regular,0
+2016,New Orleans Saints,NFC,South,7,9,0.438,469,454,15,Regular,0
+2016,Carolina Panthers,NFC,South,6,10,0.375,369,402,-33,Regular,0
+2016,Seattle Seahawks,NFC,West,10,5,0.656,354,292,62,Division,2
+2016,Arizona Cardinals,NFC,West,7,8,0.469,418,362,56,Regular,0
+2016,Los Angeles Rams,NFC,West,4,12,0.25,224,394,-170,Regular,0
+2016,San Francisco 49ers,NFC,West,2,14,0.125,309,480,-171,Regular,0
+2017,New England Patriots,AFC,East,13,3,0.813,458,296,162,SuperBowl,4
+2017,Buffalo Bills,AFC,East,9,7,0.563,302,359,-57,WildCard,1
+2017,Miami Dolphins,AFC,East,6,10,0.375,281,393,-112,Regular,0
+2017,New York Jets,AFC,East,5,11,0.313,298,382,-84,Regular,0
+2017,Pittsburgh Steelers,AFC,North,13,3,0.813,406,308,98,Division,2
+2017,Baltimore Ravens,AFC,North,9,7,0.563,395,303,92,Regular,0
+2017,Cincinnati Bengals,AFC,North,7,9,0.438,290,349,-59,Regular,0
+2017,Cleveland Browns,AFC,North,0,16,0.0,234,410,-176,Regular,0
+2017,Jacksonville Jaguars,AFC,South,10,6,0.625,417,268,149,Division,2
+2017,Tennessee Titans,AFC,South,9,7,0.563,334,356,-22,Division,2
+2017,Indianapolis Colts,AFC,South,4,12,0.25,263,404,-141,Regular,0
+2017,Houston Texans,AFC,South,4,12,0.25,338,436,-98,Regular,0
+2017,Kansas City Chiefs,AFC,West,10,6,0.625,415,339,76,WildCard,1
+2017,Los Angeles Chargers,AFC,West,9,7,0.563,355,272,83,Regular,0
+2017,Oakland Raiders,AFC,West,6,10,0.375,301,373,-72,Regular,0
+2017,Denver Broncos,AFC,West,5,11,0.313,289,382,-93,Regular,0
+2017,Philadelphia Eagles,NFC,East,13,3,0.813,457,295,162,SuperBowl,4
+2017,Dallas Cowboys,NFC,East,9,7,0.563,354,332,22,Regular,0
+2017,Washington Redskins,NFC,East,7,9,0.438,342,388,-46,Regular,0
+2017,New York Giants,NFC,East,3,13,0.188,246,388,-142,Regular,0
+2017,Minnesota Vikings,NFC,North,13,3,0.813,382,252,130,Division,2
+2017,Detroit Lions,NFC,North,9,7,0.563,410,376,34,Regular,0
+2017,Green Bay Packers,NFC,North,7,9,0.438,320,384,-64,Regular,0
+2017,Chicago Bears,NFC,North,5,11,0.313,264,320,-56,Regular,0
+2017,New Orleans Saints,NFC,South,11,5,0.688,448,326,122,Division,2
+2017,Carolina Panthers,NFC,South,11,5,0.688,363,327,36,WildCard,1
+2017,Atlanta Falcons,NFC,South,10,6,0.625,353,315,38,Division,2
+2017,Tampa Bay Buccaneers,NFC,South,5,11,0.313,335,382,-47,Regular,0
+2017,Los Angeles Rams,NFC,West,11,5,0.688,478,329,149,WildCard,1
+2017,Seattle Seahawks,NFC,West,9,7,0.563,366,332,34,Regular,0
+2017,Arizona Cardinals,NFC,West,8,8,0.5,295,361,-66,Regular,0
+2017,San Francisco 49ers,NFC,West,6,10,0.375,331,383,-52,Regular,0
+2018,New England Patriots,AFC,East,11,5,0.688,436,325,111,SuperBowl,4
+2018,Miami Dolphins,AFC,East,7,9,0.438,319,433,-114,Regular,0
+2018,Buffalo Bills,AFC,East,6,10,0.375,269,374,-105,Regular,0
+2018,New York Jets,AFC,East,4,12,0.25,333,441,-108,Regular,0
+2018,Baltimore Ravens,AFC,North,10,6,0.625,389,287,102,WildCard,1
+2018,Pittsburgh Steelers,AFC,North,9,6,0.594,428,360,68,Regular,0
+2018,Cleveland Browns,AFC,North,7,8,0.469,359,392,-33,Regular,0
+2018,Cincinnati Bengals,AFC,North,6,10,0.375,368,455,-87,Regular,0
+2018,Houston Texans,AFC,South,11,5,0.688,402,316,86,WildCard,1
+2018,Indianapolis Colts,AFC,South,10,6,0.625,433,344,89,Division,2
+2018,Tennessee Titans,AFC,South,9,7,0.563,310,303,7,Regular,0
+2018,Jacksonville Jaguars,AFC,South,5,11,0.313,245,316,-71,Regular,0
+2018,Kansas City Chiefs,AFC,West,12,4,0.75,565,421,144,Division,2
+2018,Los Angeles Chargers,AFC,West,12,4,0.75,428,329,99,Division,2
+2018,Denver Broncos,AFC,West,6,10,0.375,329,349,-20,Regular,0
+2018,Oakland Raiders,AFC,West,4,12,0.25,290,467,-177,Regular,0
+2018,Dallas Cowboys,NFC,East,10,6,0.625,339,324,15,Division,2
+2018,Philadelphia Eagles,NFC,East,9,7,0.563,367,348,19,Division,2
+2018,Washington Redskins,NFC,East,7,9,0.438,281,359,-78,Regular,0
+2018,New York Giants,NFC,East,5,11,0.313,369,412,-43,Regular,0
+2018,Chicago Bears,NFC,North,12,4,0.75,421,283,138,WildCard,1
+2018,Minnesota Vikings,NFC,North,8,7,0.531,360,341,19,Regular,0
+2018,Green Bay Packers,NFC,North,6,9,0.406,376,400,-24,Regular,0
+2018,Detroit Lions,NFC,North,6,10,0.375,324,360,-36,Regular,0
+2018,New Orleans Saints,NFC,South,13,3,0.813,504,353,151,Division,2
+2018,Atlanta Falcons,NFC,South,7,9,0.438,414,423,-9,Regular,0
+2018,Carolina Panthers,NFC,South,7,9,0.438,376,382,-6,Regular,0
+2018,Tampa Bay Buccaneers,NFC,South,5,11,0.313,396,464,-68,Regular,0
+2018,Los Angeles Rams,NFC,West,13,3,0.813,527,384,143,SuperBowl,4
+2018,Seattle Seahawks,NFC,West,10,6,0.625,428,347,81,WildCard,1
+2018,San Francisco 49ers,NFC,West,4,12,0.25,342,435,-93,Regular,0
+2018,Arizona Cardinals,NFC,West,3,13,0.188,225,425,-200,Regular,0
+2019,New England Patriots,AFC,East,12,4,0.75,420,225,195,WildCard,1
+2019,Buffalo Bills,AFC,East,10,6,0.625,314,259,55,WildCard,1
+2019,New York Jets,AFC,East,7,9,0.438,276,359,-83,Regular,0
+2019,Miami Dolphins,AFC,East,5,11,0.313,306,494,-188,Regular,0
+2019,Baltimore Ravens,AFC,North,14,2,0.875,531,282,249,Division,2
+2019,Pittsburgh Steelers,AFC,North,8,8,0.5,289,303,-14,Regular,0
+2019,Cleveland Browns,AFC,North,6,10,0.375,335,393,-58,Regular,0
+2019,Cincinnati Bengals,AFC,North,2,14,0.125,279,420,-141,Regular,0
+2019,Houston Texans,AFC,South,10,6,0.625,378,385,-7,Division,2
+2019,Tennessee Titans,AFC,South,9,7,0.563,402,331,71,Division,2
+2019,Indianapolis Colts,AFC,South,7,9,0.438,361,373,-12,Regular,0
+2019,Jacksonville Jaguars,AFC,South,6,10,0.375,300,397,-97,Regular,0
+2019,Kansas City Chiefs,AFC,West,12,4,0.75,451,308,143,SuperBowl,4
+2019,Denver Broncos,AFC,West,7,9,0.438,282,316,-34,Regular,0
+2019,Oakland Raiders,AFC,West,7,9,0.438,313,419,-106,Regular,0
+2019,Los Angeles Chargers,AFC,West,5,11,0.313,337,345,-8,Regular,0
+2019,Philadelphia Eagles,NFC,East,9,7,0.563,385,354,31,WildCard,1
+2019,Dallas Cowboys,NFC,East,8,8,0.5,434,321,113,Regular,0
+2019,New York Giants,NFC,East,4,12,0.25,341,451,-110,Regular,0
+2019,Washington Redskins,NFC,East,3,13,0.188,266,435,-169,Regular,0
+2019,Green Bay Packers,NFC,North,13,3,0.813,376,313,63,Division,2
+2019,Minnesota Vikings,NFC,North,10,6,0.625,407,303,104,Division,2
+2019,Chicago Bears,NFC,North,8,8,0.5,280,298,-18,Regular,0
+2019,Detroit Lions,NFC,North,3,12,0.219,341,423,-82,Regular,0
+2019,New Orleans Saints,NFC,South,13,3,0.813,458,341,117,WildCard,1
+2019,Atlanta Falcons,NFC,South,7,9,0.438,381,399,-18,Regular,0
+2019,Tampa Bay Buccaneers,NFC,South,7,9,0.438,458,449,9,Regular,0
+2019,Carolina Panthers,NFC,South,5,11,0.313,340,470,-130,Regular,0
+2019,San Francisco 49ers,NFC,West,13,3,0.813,479,310,169,SuperBowl,4
+2019,Seattle Seahawks,NFC,West,11,5,0.688,405,398,7,Division,2
+2019,Los Angeles Rams,NFC,West,9,7,0.563,394,364,30,Regular,0
+2019,Arizona Cardinals,NFC,West,5,10,0.344,361,442,-81,Regular,0
+2020,Buffalo Bills,AFC,East,13,3,0.813,501,375,126,Division,2
+2020,Miami Dolphins,AFC,East,10,6,0.625,404,338,66,Regular,0
+2020,New England Patriots,AFC,East,7,9,0.438,326,353,-27,Regular,0
+2020,New York Jets,AFC,East,2,14,0.125,243,457,-214,Regular,0
+2020,Pittsburgh Steelers,AFC,North,12,4,0.75,416,312,104,WildCard,1
+2020,Baltimore Ravens,AFC,North,11,5,0.688,468,303,165,Division,2
+2020,Cleveland Browns,AFC,North,11,5,0.688,408,419,-11,Division,2
+2020,Cincinnati Bengals,AFC,North,4,11,0.281,311,424,-113,Regular,0
+2020,Tennessee Titans,AFC,South,11,5,0.688,491,439,52,WildCard,1
+2020,Indianapolis Colts,AFC,South,11,5,0.688,451,362,89,WildCard,1
+2020,Houston Texans,AFC,South,4,12,0.25,384,464,-80,Regular,0
+2020,Jacksonville Jaguars,AFC,South,1,15,0.063,306,492,-186,Regular,0
+2020,Kansas City Chiefs,AFC,West,14,2,0.875,473,362,111,SuperBowl,4
+2020,Las Vegas Raiders,AFC,West,8,8,0.5,434,478,-44,Regular,0
+2020,Los Angeles Chargers,AFC,West,7,9,0.438,384,426,-42,Regular,0
+2020,Denver Broncos,AFC,West,5,11,0.313,323,446,-123,Regular,0
+2020,Washington Football Team,NFC,East,7,9,0.438,335,329,6,WildCard,1
+2020,New York Giants,NFC,East,6,10,0.375,280,357,-77,Regular,0
+2020,Dallas Cowboys,NFC,East,6,10,0.375,395,473,-78,Regular,0
+2020,Philadelphia Eagles,NFC,East,4,11,0.281,334,418,-84,Regular,0
+2020,Green Bay Packers,NFC,North,13,3,0.813,509,369,140,Division,2
+2020,Chicago Bears,NFC,North,8,8,0.5,372,370,2,WildCard,1
+2020,Minnesota Vikings,NFC,North,7,9,0.438,430,475,-45,Regular,0
+2020,Detroit Lions,NFC,North,5,11,0.313,377,519,-142,Regular,0
+2020,New Orleans Saints,NFC,South,12,4,0.75,482,337,145,Division,2
+2020,Tampa Bay Buccaneers,NFC,South,11,5,0.688,492,355,137,SuperBowl,4
+2020,Carolina Panthers,NFC,South,5,11,0.313,350,402,-52,Regular,0
+2020,Atlanta Falcons,NFC,South,4,12,0.25,396,414,-18,Regular,0
+2020,Seattle Seahawks,NFC,West,12,4,0.75,459,371,88,WildCard,1
+2020,Los Angeles Rams,NFC,West,10,6,0.625,372,296,76,Division,2
+2020,Arizona Cardinals,NFC,West,8,8,0.5,410,367,43,Regular,0
+2020,San Francisco 49ers,NFC,West,6,10,0.375,376,390,-14,Regular,0
+2021,Buffalo Bills,AFC,East,11,6,0.647,483,289,194,Division,2
+2021,New England Patriots,AFC,East,10,7,0.588,462,303,159,WildCard,1
+2021,Miami Dolphins,AFC,East,9,8,0.529,341,373,-32,Regular,0
+2021,New York Jets,AFC,East,4,13,0.235,310,504,-194,Regular,0
+2021,Cincinnati Bengals,AFC,North,10,7,0.588,460,376,84,SuperBowl,4
+2021,Pittsburgh Steelers,AFC,North,9,7,0.559,343,398,-55,WildCard,1
+2021,Cleveland Browns,AFC,North,8,9,0.471,349,371,-22,Regular,0
+2021,Baltimore Ravens,AFC,North,8,9,0.471,387,392,-5,Regular,0
+2021,Tennessee Titans,AFC,South,12,5,0.706,419,354,65,Division,2
+2021,Indianapolis Colts,AFC,South,9,8,0.529,451,365,86,Regular,0
+2021,Houston Texans,AFC,South,4,13,0.235,280,452,-172,Regular,0
+2021,Jacksonville Jaguars,AFC,South,3,14,0.176,253,457,-204,Regular,0
+2021,Kansas City Chiefs,AFC,West,12,5,0.706,480,364,116,Division,2
+2021,Las Vegas Raiders,AFC,West,10,7,0.588,374,439,-65,WildCard,1
+2021,Los Angeles Chargers,AFC,West,9,8,0.529,474,459,15,Regular,0
+2021,Denver Broncos,AFC,West,7,10,0.412,335,322,13,Regular,0
+2021,Dallas Cowboys,NFC,East,12,5,0.706,530,358,172,WildCard,1
+2021,Philadelphia Eagles,NFC,East,9,8,0.529,444,385,59,WildCard,1
+2021,Washington Football Team,NFC,East,7,10,0.412,335,434,-99,Regular,0
+2021,New York Giants,NFC,East,4,13,0.235,258,416,-158,Regular,0
+2021,Green Bay Packers,NFC,North,13,4,0.765,450,371,79,Division,2
+2021,Minnesota Vikings,NFC,North,8,9,0.471,425,426,-1,Regular,0
+2021,Chicago Bears,NFC,North,6,11,0.353,311,407,-96,Regular,0
+2021,Detroit Lions,NFC,North,3,13,0.206,325,467,-142,Regular,0
+2021,Tampa Bay Buccaneers,NFC,South,13,4,0.765,511,353,158,Division,2
+2021,New Orleans Saints,NFC,South,9,8,0.529,364,335,29,Regular,0
+2021,Atlanta Falcons,NFC,South,7,10,0.412,313,459,-146,Regular,0
+2021,Carolina Panthers,NFC,South,5,12,0.294,304,404,-100,Regular,0
+2021,Los Angeles Rams,NFC,West,12,5,0.706,460,372,88,SuperBowl,4
+2021,Arizona Cardinals,NFC,West,11,6,0.647,449,366,83,WildCard,1
+2021,San Francisco 49ers,NFC,West,10,7,0.588,427,365,62,Division,2
+2021,Seattle Seahawks,NFC,West,7,10,0.412,395,366,29,Regular,0
+2022,Buffalo Bills,AFC,East,13,3,0.813,455,286,169,Division,2
+2022,Miami Dolphins,AFC,East,9,8,0.529,397,399,-2,WildCard,1
+2022,New England Patriots,AFC,East,8,9,0.471,364,347,17,Regular,0
+2022,New York Jets,AFC,East,7,10,0.412,296,316,-20,Regular,0
+2022,Cincinnati Bengals,AFC,North,12,4,0.75,418,322,96,Division,2
+2022,Baltimore Ravens,AFC,North,10,7,0.588,350,315,35,WildCard,1
+2022,Pittsburgh Steelers,AFC,North,9,8,0.529,308,346,-38,Regular,0
+2022,Cleveland Browns,AFC,North,7,10,0.412,361,381,-20,Regular,0
+2022,Jacksonville Jaguars,AFC,South,9,8,0.529,404,350,54,Division,2
+2022,Tennessee Titans,AFC,South,7,10,0.412,298,359,-61,Regular,0
+2022,Indianapolis Colts,AFC,South,4,12,0.265,289,427,-138,Regular,0
+2022,Houston Texans,AFC,South,3,13,0.206,289,420,-131,Regular,0
+2022,Kansas City Chiefs,AFC,West,14,3,0.824,496,369,127,SuperBowl,4
+2022,Los Angeles Chargers,AFC,West,10,7,0.588,391,384,7,WildCard,1
+2022,Las Vegas Raiders,AFC,West,6,11,0.353,395,418,-23,Regular,0
+2022,Denver Broncos,AFC,West,5,12,0.294,287,359,-72,Regular,0
+2022,Philadelphia Eagles,NFC,East,14,3,0.824,477,344,133,SuperBowl,4
+2022,Dallas Cowboys,NFC,East,12,5,0.706,467,342,125,Division,2
+2022,New York Giants,NFC,East,9,7,0.559,365,371,-6,Division,2
+2022,Washington Commanders,NFC,East,8,8,0.5,321,343,-22,Regular,0
+2022,Minnesota Vikings,NFC,North,13,4,0.765,424,427,-3,WildCard,1
+2022,Detroit Lions,NFC,North,9,8,0.529,453,427,26,Regular,0
+2022,Green Bay Packers,NFC,North,8,9,0.471,370,371,-1,Regular,0
+2022,Chicago Bears,NFC,North,3,14,0.176,326,463,-137,Regular,0
+2022,Tampa Bay Buccaneers,NFC,South,8,9,0.471,313,358,-45,WildCard,1
+2022,Carolina Panthers,NFC,South,7,10,0.412,347,374,-27,Regular,0
+2022,New Orleans Saints,NFC,South,7,10,0.412,330,345,-15,Regular,0
+2022,Atlanta Falcons,NFC,South,7,10,0.412,365,386,-21,Regular,0
+2022,San Francisco 49ers,NFC,West,13,4,0.765,450,277,173,Division,2
+2022,Seattle Seahawks,NFC,West,9,8,0.529,407,401,6,WildCard,1
+2022,Los Angeles Rams,NFC,West,5,12,0.294,307,384,-77,Regular,0
+2022,Arizona Cardinals,NFC,West,4,13,0.235,340,449,-109,Regular,0
+2023,Buffalo Bills,AFC,East,11,6,0.647,451,311,140,Division,2
+2023,Miami Dolphins,AFC,East,11,6,0.647,496,391,105,WildCard,1
+2023,New York Jets,AFC,East,7,10,0.412,268,355,-87,Regular,0
+2023,New England Patriots,AFC,East,4,13,0.235,236,366,-130,Regular,0
+2023,Baltimore Ravens,AFC,North,13,4,0.765,483,280,203,Division,2
+2023,Cleveland Browns,AFC,North,11,6,0.647,396,362,34,WildCard,1
+2023,Pittsburgh Steelers,AFC,North,10,7,0.588,304,324,-20,WildCard,1
+2023,Cincinnati Bengals,AFC,North,9,8,0.529,366,384,-18,Regular,0
+2023,Houston Texans,AFC,South,10,7,0.588,377,353,24,Division,2
+2023,Jacksonville Jaguars,AFC,South,9,8,0.529,377,371,6,Regular,0
+2023,Indianapolis Colts,AFC,South,9,8,0.529,396,415,-19,Regular,0
+2023,Tennessee Titans,AFC,South,6,11,0.353,305,367,-62,Regular,0
+2023,Kansas City Chiefs,AFC,West,11,6,0.647,371,294,77,SuperBowl,4
+2023,Las Vegas Raiders,AFC,West,8,9,0.471,332,331,1,Regular,0
+2023,Denver Broncos,AFC,West,8,9,0.471,357,413,-56,Regular,0
+2023,Los Angeles Chargers,AFC,West,5,12,0.294,346,398,-52,Regular,0
+2023,Dallas Cowboys,NFC,East,12,5,0.706,509,315,194,WildCard,1
+2023,Philadelphia Eagles,NFC,East,11,6,0.647,433,428,5,WildCard,1
+2023,New York Giants,NFC,East,6,11,0.353,266,407,-141,Regular,0
+2023,Washington Commanders,NFC,East,4,13,0.235,329,518,-189,Regular,0
+2023,Detroit Lions,NFC,North,12,5,0.706,461,395,66,Division,2
+2023,Green Bay Packers,NFC,North,9,8,0.529,383,350,33,Division,2
+2023,Minnesota Vikings,NFC,North,7,10,0.412,344,362,-18,Regular,0
+2023,Chicago Bears,NFC,North,7,10,0.412,360,379,-19,Regular,0
+2023,Tampa Bay Buccaneers,NFC,South,9,8,0.529,348,325,23,Division,2
+2023,New Orleans Saints,NFC,South,9,8,0.529,402,327,75,Regular,0
+2023,Atlanta Falcons,NFC,South,7,10,0.412,321,373,-52,Regular,0
+2023,Carolina Panthers,NFC,South,2,15,0.118,236,416,-180,Regular,0
+2023,San Francisco 49ers,NFC,West,12,5,0.706,491,298,193,SuperBowl,4
+2023,Los Angeles Rams,NFC,West,10,7,0.588,404,377,27,WildCard,1
+2023,Seattle Seahawks,NFC,West,9,8,0.529,364,402,-38,Regular,0
+2023,Arizona Cardinals,NFC,West,4,13,0.235,330,455,-125,Regular,0
+2024,Buffalo Bills,AFC,East,13,4,0.765,525,368,157,Division,2
+2024,Miami Dolphins,AFC,East,8,9,0.471,345,364,-19,Regular,0
+2024,New York Jets,AFC,East,5,12,0.294,338,404,-66,Regular,0
+2024,New England Patriots,AFC,East,4,13,0.235,289,417,-128,Regular,0
+2024,Baltimore Ravens,AFC,North,12,5,0.706,518,361,157,Division,2
+2024,Pittsburgh Steelers,AFC,North,10,7,0.588,380,347,33,WildCard,1
+2024,Cincinnati Bengals,AFC,North,9,8,0.529,472,434,38,Regular,0
+2024,Cleveland Browns,AFC,North,3,14,0.176,258,435,-177,Regular,0
+2024,Houston Texans,AFC,South,10,7,0.588,372,372,0,Division,2
+2024,Indianapolis Colts,AFC,South,8,9,0.471,377,427,-50,Regular,0
+2024,Jacksonville Jaguars,AFC,South,4,13,0.235,320,435,-115,Regular,0
+2024,Tennessee Titans,AFC,South,3,14,0.176,311,460,-149,Regular,0
+2024,Kansas City Chiefs,AFC,West,15,2,0.882,385,326,59,SuperBowl,4
+2024,Los Angeles Chargers,AFC,West,11,6,0.647,402,301,101,WildCard,1
+2024,Denver Broncos,AFC,West,10,7,0.588,425,311,114,WildCard,1
+2024,Las Vegas Raiders,AFC,West,4,13,0.235,309,434,-125,Regular,0
+2024,Philadelphia Eagles,NFC,East,14,3,0.824,463,303,160,SuperBowl,4
+2024,Washington Commanders,NFC,East,12,5,0.706,485,391,94,Division,2
+2024,Dallas Cowboys,NFC,East,7,10,0.412,350,468,-118,Regular,0
+2024,New York Giants,NFC,East,3,14,0.176,273,415,-142,Regular,0
+2024,Detroit Lions,NFC,North,15,2,0.882,564,342,222,Division,2
+2024,Minnesota Vikings,NFC,North,14,3,0.824,432,332,100,WildCard,1
+2024,Green Bay Packers,NFC,North,11,6,0.647,460,338,122,WildCard,1
+2024,Chicago Bears,NFC,North,5,12,0.294,310,370,-60,Regular,0
+2024,Tampa Bay Buccaneers,NFC,South,10,7,0.588,502,385,117,WildCard,1
+2024,Atlanta Falcons,NFC,South,8,9,0.471,389,423,-34,Regular,0
+2024,Carolina Panthers,NFC,South,5,12,0.294,341,534,-193,Regular,0
+2024,New Orleans Saints,NFC,South,5,12,0.294,338,398,-60,Regular,0
+2024,Los Angeles Rams,NFC,West,10,7,0.588,367,386,-19,Division,2
+2024,Seattle Seahawks,NFC,West,10,7,0.588,375,368,7,Regular,0
+2024,Arizona Cardinals,NFC,West,8,9,0.471,400,379,21,Regular,0
+2024,San Francisco 49ers,NFC,West,6,11,0.353,389,436,-47,Regular,0
