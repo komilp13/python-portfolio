@@ -1,0 +1,95 @@
+season,team,conf,region,wins,losses,win_percent,pts_scored,pts_allowed,pts_diff,season_result,season_result_int
+2000,Miami Dolphins,AFC,East,11,5,0.688,323,226,97,Division,2
+2000,Indianapolis Colts,AFC,East,10,6,0.625,429,326,103,WildCard,1
+2000,New York Jets,AFC,East,9,7,0.563,321,321,0,Regular,0
+2000,Buffalo Bills,AFC,East,8,8,0.5,315,350,-35,Regular,0
+2000,New England Patriots,AFC,East,5,11,0.313,276,338,-62,Regular,0
+2000,Tennessee Titans,AFC,Central,13,3,0.813,346,191,155,Division,2
+2000,Baltimore Ravens,AFC,Central,12,4,0.75,333,165,168,SuperBowl,4
+2000,Pittsburgh Steelers,AFC,Central,9,7,0.563,321,255,66,Regular,0
+2000,Jacksonville Jaguars,AFC,Central,7,9,0.438,367,327,40,Regular,0
+2000,Cincinnati Bengals,AFC,Central,4,12,0.25,185,359,-174,Regular,0
+2000,Cleveland Browns,AFC,Central,3,13,0.188,161,419,-258,Regular,0
+2000,Oakland Raiders,AFC,West,12,4,0.75,479,299,180,Division,2
+2000,Denver Broncos,AFC,West,11,5,0.688,485,369,116,WildCard,1
+2000,Kansas City Chiefs,AFC,West,7,9,0.438,355,354,1,Regular,0
+2000,Seattle Seahawks,AFC,West,6,10,0.375,320,405,-85,Regular,0
+2000,San Diego Chargers,AFC,West,1,15,0.063,269,440,-171,Regular,0
+2000,New York Giants,NFC,East,12,4,0.75,328,246,82,SuperBowl,4
+2000,Philadelphia Eagles,NFC,East,11,5,0.688,351,245,106,Division,2
+2000,Washington Redskins,NFC,East,8,8,0.5,281,269,12,Regular,0
+2000,Dallas Cowboys,NFC,East,5,11,0.313,294,361,-67,Regular,0
+2000,Arizona Cardinals,NFC,East,3,13,0.188,210,443,-233,Regular,0
+2000,Minnesota Vikings,NFC,Central,11,5,0.688,397,371,26,Division,2
+2000,Tampa Bay Buccaneers,NFC,Central,10,6,0.625,388,269,119,WildCard,1
+2000,Green Bay Packers,NFC,Central,9,7,0.563,353,323,30,Regular,0
+2000,Detroit Lions,NFC,Central,9,7,0.563,307,307,0,Regular,0
+2000,Chicago Bears,NFC,Central,5,11,0.313,216,355,-139,Regular,0
+2000,New Orleans Saints,NFC,West,10,6,0.625,354,305,49,Division,2
+2000,St. Louis Rams,NFC,West,10,6,0.625,540,471,69,WildCard,1
+2000,Carolina Panthers,NFC,West,7,9,0.438,310,310,0,Regular,0
+2000,San Francisco 49ers,NFC,West,6,10,0.375,388,422,-34,Regular,0
+2000,Atlanta Falcons,NFC,West,4,12,0.25,252,413,-161,Regular,0
+2001,New England Patriots,AFC,East,11,5,0.688,371,272,99,SuperBowl,4
+2001,Miami Dolphins,AFC,East,11,5,0.688,344,290,54,WildCard,1
+2001,New York Jets,AFC,East,10,6,0.625,308,295,13,WildCard,1
+2001,Indianapolis Colts,AFC,East,6,10,0.375,413,486,-73,Regular,0
+2001,Buffalo Bills,AFC,East,3,13,0.188,265,420,-155,Regular,0
+2001,Pittsburgh Steelers,AFC,Central,13,3,0.813,352,212,140,Division,2
+2001,Baltimore Ravens,AFC,Central,10,6,0.625,303,265,38,Division,2
+2001,Cleveland Browns,AFC,Central,7,9,0.438,285,319,-34,Regular,0
+2001,Tennessee Titans,AFC,Central,7,9,0.438,336,388,-52,Regular,0
+2001,Jacksonville Jaguars,AFC,Central,6,10,0.375,294,286,8,Regular,0
+2001,Cincinnati Bengals,AFC,Central,6,10,0.375,226,309,-83,Regular,0
+2001,Oakland Raiders,AFC,West,10,6,0.625,399,327,72,Division,2
+2001,Seattle Seahawks,AFC,West,9,7,0.563,301,324,-23,Regular,0
+2001,Denver Broncos,AFC,West,8,8,0.5,340,339,1,Regular,0
+2001,Kansas City Chiefs,AFC,West,6,10,0.375,320,344,-24,Regular,0
+2001,San Diego Chargers,AFC,West,5,11,0.313,332,321,11,Regular,0
+2001,Philadelphia Eagles,NFC,East,11,5,0.688,343,208,135,Division,2
+2001,Washington Redskins,NFC,East,8,8,0.5,256,303,-47,Regular,0
+2001,New York Giants,NFC,East,7,9,0.438,294,321,-27,Regular,0
+2001,Arizona Cardinals,NFC,East,7,9,0.438,295,343,-48,Regular,0
+2001,Dallas Cowboys,NFC,East,5,11,0.313,246,338,-92,Regular,0
+2001,Chicago Bears,NFC,Central,13,3,0.813,338,203,135,Division,2
+2001,Green Bay Packers,NFC,Central,12,4,0.75,390,266,124,Division,2
+2001,Tampa Bay Buccaneers,NFC,Central,9,7,0.563,324,280,44,WildCard,1
+2001,Minnesota Vikings,NFC,Central,5,11,0.313,290,390,-100,Regular,0
+2001,Detroit Lions,NFC,Central,2,14,0.125,270,424,-154,Regular,0
+2001,St. Louis Rams,NFC,West,14,2,0.875,503,273,230,SuperBowl,4
+2001,San Francisco 49ers,NFC,West,12,4,0.75,409,282,127,WildCard,1
+2001,New Orleans Saints,NFC,West,7,9,0.438,333,409,-76,Regular,0
+2001,Atlanta Falcons,NFC,West,7,9,0.438,291,377,-86,Regular,0
+2001,Carolina Panthers,NFC,West,1,15,0.063,253,410,-157,Regular,0
+2002,New York Jets,AFC,East,9,7,0.563,359,336,23,Division,2
+2002,New England Patriots,AFC,East,9,7,0.563,381,346,35,Regular,0
+2002,Miami Dolphins,AFC,East,9,7,0.563,378,301,77,Regular,0
+2002,Buffalo Bills,AFC,East,8,8,0.5,379,397,-18,Regular,0
+2002,Pittsburgh Steelers,AFC,North,10,5,0.656,390,345,45,Division,2
+2002,Cleveland Browns,AFC,North,9,7,0.563,344,320,24,WildCard,1
+2002,Baltimore Ravens,AFC,North,7,9,0.438,316,354,-38,Regular,0
+2002,Cincinnati Bengals,AFC,North,2,14,0.125,279,456,-177,Regular,0
+2002,Tennessee Titans,AFC,South,11,5,0.688,367,324,43,Division,2
+2002,Indianapolis Colts,AFC,South,10,6,0.625,349,313,36,WildCard,1
+2002,Jacksonville Jaguars,AFC,South,6,10,0.375,328,315,13,Regular,0
+2002,Houston Texans,AFC,South,4,12,0.25,213,356,-143,Regular,0
+2002,Oakland Raiders,AFC,West,11,5,0.688,450,304,146,SuperBowl,4
+2002,Denver Broncos,AFC,West,9,7,0.563,392,344,48,Regular,0
+2002,San Diego Chargers,AFC,West,8,8,0.5,333,367,-34,Regular,0
+2002,Kansas City Chiefs,AFC,West,8,8,0.5,467,399,68,Regular,0
+2002,Philadelphia Eagles,NFC,East,12,4,0.75,415,241,174,Division,2
+2002,New York Giants,NFC,East,10,6,0.625,320,279,41,WildCard,1
+2002,Washington Redskins,NFC,East,7,9,0.438,307,365,-58,Regular,0
+2002,Dallas Cowboys,NFC,East,5,11,0.313,217,329,-112,Regular,0
+2002,Green Bay Packers,NFC,North,12,4,0.75,398,328,70,WildCard,1
+2002,Minnesota Vikings,NFC,North,6,10,0.375,390,442,-52,Regular,0
+2002,Chicago Bears,NFC,North,4,12,0.25,281,379,-98,Regular,0
+2002,Detroit Lions,NFC,North,3,13,0.188,306,451,-145,Regular,0
+2002,Tampa Bay Buccaneers,NFC,South,12,4,0.75,346,196,150,SuperBowl,4
+2002,Atlanta Falcons,NFC,South,9,6,0.594,402,314,88,Division,2
+2002,New Orleans Saints,NFC,South,9,7,0.563,432,388,44,Regular,0
+2002,Carolina Panthers,NFC,South,7,9,0.438,258,302,-44,Regular,0
+2002,San Francisco 49ers,NFC,West,10,6,0.625,367,351,16,Division,2
+2002,St. Louis Rams,NFC,West,7,9,0.438,316,369,-53,Regular,0
+2002,Seattle Seahawks,NFC,West,7,9,0.438,355,369,-14,Regular,0
+2002,Arizona Cardinals,NFC,West,5,11,0.313,262,417,-155,Regular,0

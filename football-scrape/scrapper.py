@@ -16,7 +16,7 @@ from seleniumbase import Driver
 SEASON_RESULTS_DICT = {'WildCard':1, 'Division':2, 'Conference':3, 'SuperBowl':4 }
 
 COLUMNS = ['season', 'team', 'conf', 'region', 'wins', 'losses', 'win_percent', 'pts_scored', 'pts_allowed', 'pts_diff', 'season_result', 'season_result_int']
-SLEEP_TIME = 10  # seconds
+SLEEP_TIME = 5  # seconds
 OUTPUT_DIR = '~/Code/python-portfolio/football-scrape/generated' #'/Users/komil/Code/python-portfolio/football-scrape/generated'
 
 final_df = pd.DataFrame(columns=COLUMNS)
@@ -107,6 +107,7 @@ def scrapeForSeasonalData(year):
           'season_result_int': season_status_int
         }
         final_df.loc[len(final_df)] = new_row
+        print(new_row)
 
   print(f'Done extracting stats!')
 
@@ -116,14 +117,14 @@ def scrapeForSeasonalData(year):
 
 
 # scrape for all the years
-for year in range¬
+for year in range(2000, 2003):
   scrapeForSeasonalData(year)
 
 driver.close()
 driver.quit()
 
 # export the dataframe to csv
-final_df.to_csv(os.path.join(OUTPUT_DIR,'seasonal-data.csv'), index=False, columns=COLUMNS)
+final_df.to_csv(os.path.join(OUTPUT_DIR,'seasonal-data-sm.csv'), index=False, columns=COLUMNS)
 
 
 print('All done!')
